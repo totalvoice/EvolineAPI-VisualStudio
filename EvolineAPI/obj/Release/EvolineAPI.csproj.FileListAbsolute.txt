@@ -1,0 +1,6 @@
+C:\workspace\visualstudio2015\EvolineAPI\EvolineAPI\bin\Release\EvolineAPI.dll
+C:\workspace\visualstudio2015\EvolineAPI\EvolineAPI\bin\Release\EvolineAPI.pdb
+C:\workspace\visualstudio2015\EvolineAPI\EvolineAPI\bin\Release\Newtonsoft.Json.dll
+C:\workspace\visualstudio2015\EvolineAPI\EvolineAPI\obj\Release\EvolineAPI.csprojResolveAssemblyReference.cache
+C:\workspace\visualstudio2015\EvolineAPI\EvolineAPI\obj\Release\EvolineAPI.dll
+C:\workspace\visualstudio2015\EvolineAPI\EvolineAPI\obj\Release\EvolineAPI.pdb

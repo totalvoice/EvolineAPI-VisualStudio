@@ -1,0 +1,6 @@
+C:\ELTON\workspace\visualstudio2015\EvolineAPI\EvolineAPI\obj\Debug\EvolineAPI.csprojResolveAssemblyReference.cache
+C:\ELTON\workspace\visualstudio2015\EvolineAPI\EvolineAPI\bin\Debug\EvolineAPI.dll
+C:\ELTON\workspace\visualstudio2015\EvolineAPI\EvolineAPI\bin\Debug\EvolineAPI.pdb
+C:\ELTON\workspace\visualstudio2015\EvolineAPI\EvolineAPI\bin\Debug\Newtonsoft.Json.dll
+C:\ELTON\workspace\visualstudio2015\EvolineAPI\EvolineAPI\obj\Debug\EvolineAPI.dll
+C:\ELTON\workspace\visualstudio2015\EvolineAPI\EvolineAPI\obj\Debug\EvolineAPI.pdb

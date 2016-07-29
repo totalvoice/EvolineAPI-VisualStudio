@@ -157,7 +157,7 @@ namespace Evoline.API {
             body.Add("mensagem", mensagem);
 
 
-            return this.sendRequest("/sms", "POST", JsonConvert.SerializeObject(body);
+            return this.sendRequest("/sms", "POST", JsonConvert.SerializeObject(body));
         }
 
         public dynamic statusSMS(int smsId) {

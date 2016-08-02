@@ -215,6 +215,20 @@ namespace Evoline.API {
         }
 
 
+        /* Webphone */
+
+        public String ligarComWebphone(String ramal_origem, String numero_destino) {
+            String query = "?ramal=" + ramal_origem + "&ligar_para=" + numero_destino + "&fechar_fim=true";
+            
+            dynamic ret = this.sendRequest("/webphone" + query, "GET");
+            try {
+                return ret.dados.url;
+            }catch(Exception e) { 
+
+            }
+            return null;
+        }
+
 
     }
 }

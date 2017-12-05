@@ -11,7 +11,10 @@ Lib (dll) C# (VisualStudio) para integração com a API Evoline
 
     dynamic chamada = api.enviaChamada("********", "*********", true);
     Console.WriteLine(chamada);
+    Console.ReadLine();
 
+    dynamic sms = api.enviaSMS("***********", "Mensagem de teste de SMS");
+    Console.WriteLine(sms);
     Console.ReadLine();
 ```
 

@@ -1,3 +1,6 @@
+# DEPRECATED
+Se você usa a versão do .NET framework > 4.5. Utilize a versão atualizada da lib: [totalvoice-csharp](https://github.com/totalvoice/totalvoice-csharp)
+
 # EvolineAPI-VisualStudio
 Lib (dll) C# (VisualStudio) para integração com a API Evoline
 
